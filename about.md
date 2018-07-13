@@ -6,7 +6,7 @@ permalink: /about/
 
 個性內向的我話並不多，平常都從事比較宅的休閒活動，不過其實我並不排斥戶外活動，像我也嘗試過衝浪，雖然大多時候是被浪衝，但成功站在衝浪板上還是有的。本來想寫寫我喜歡的漫畫、動漫、電影、電視節目、書籍，不過礙於篇幅有限的關係 (？)，這邊整理好一個[清單](/favorites/)，大家有興趣可以點進去看看。
 
-目前熟悉的程式語言是 `Python`，當然 `HTML / CSS / Javascript` 也略懂略懂，使用過 `Prado / CodeIgniter / Django` 開發過網站。
+目前熟悉的程式語言是 `Python`，當然 `HTML/CSS/Javascript` 也略懂略懂，使用過 `Prado/CodeIgniter/Django` 開發過網站。
 
 > If you fear failure, you will never go anywhere.
 

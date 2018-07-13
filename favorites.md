@@ -44,6 +44,7 @@ permalink: /favorites/
     - 銀之匙
     - 鋼之鍊金術師
     - 涼宮春日的憂鬱
+    - 笑傲曇天
 - 電影
     - 辛德勒的名單 Schindler's List
     - 惡棍特工 Inglourious Basterds
@@ -69,3 +70,4 @@ permalink: /favorites/
 - 閱讀
     - 被討厭的勇氣
     - 快樂為什麼不幸福
+    - 音樂原來是這樣：音程的奧妙與魅力

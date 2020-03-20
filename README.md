@@ -1,6 +1,6 @@
 # My Github Pages
 
-ruby version: 2.5.1
+ruby version: 2.6.5
 
 ## Setup
 
@@ -11,6 +11,9 @@ bundle exec jekyll serve
 
 # check where minima is installed
 bundle show minima
+
+# show all gems in your Gemfile.
+bundle list
 ```
 
 ### Warning

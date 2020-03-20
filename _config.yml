@@ -27,9 +27,12 @@ google_analytics: UA-122350852-1
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima@master
 
 # 是否顯示文章片段
 show_excerpts: false
@@ -45,3 +48,7 @@ show_excerpts: false
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - about.md
+  - favorites.md

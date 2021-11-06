@@ -18,7 +18,7 @@ permalink: /favorites/
     - 神劍闖江湖
     - 鋼鐵神兵
     - 新世紀福音戰士
-    - 攻殻機動隊
+    - 攻殻機動隊 SAC
     - 犬夜叉
     - 海賊王
     - 獵人
@@ -26,6 +26,7 @@ permalink: /favorites/
     - 火影忍者
     - 頭文字 D
     - 第一神拳
+    - REAL
     - 遊戲人生 No Game No Life
     - 四月是你的謊言
     - 東京喰種
@@ -50,13 +51,14 @@ permalink: /favorites/
     - 銀之匙
     - 鋼之鍊金術師
     - 涼宮春日的憂鬱
+    - 冰菓
     - 魔法少女小圓
     - 笑傲曇天
     - 聲之形
     - 命運石之門 Steins;Gate
     - 好想大聲說出心底的話。 心が叫びたがってるんだ。
     - 比宇宙更遠的地方
-    - 天元突破 紅蓮螺巖
+    - 天元突破 紅蓮螺巖 GURREN LAGANN
     - 青春豬頭少年不會夢到兔女郎學姊
     - 魂環
     - 夏日大作戰
@@ -72,6 +74,17 @@ permalink: /favorites/
     - 約定的夢幻島
     - 春宵苦短，少女前進吧！
     - BEASTARS
+    - 異獸魔都
+    - 別對映像研出手！
+    - 攻殻機動隊 SAC_2045
+    - 怪獸 8 號
+    - 海盜戰記
+    - DECA-DENCE デカダンス
+    - 伊甸 エデン
+    - 86 －不存在的戰區－
+    - 奇巧計程車 オッドタクシー
+    - 哥吉拉 奇異點 ゴジラ S.P ＜シンギュラポイント＞
+    - 藍色時期 ブルーピリオド
 - 新海誠
     - 她與她的貓 彼女と彼女の猫
     - 星之聲 ほしのこえ
@@ -112,10 +125,15 @@ permalink: /favorites/
     - 陽光普照
     - 寄生上流
     - 關鍵少數 Hidden Figures
+    - 克勞斯：聖誕節的秘密 Klaus
+    - 消失的情人節
+    - 我的章魚老師 My Octopus Teacher
 - 電視節目
     - 黑鏡 Black Mirror
     - 鬼入侵 The Haunting of Hill House
+    - 解放者：歐陸決戰 500 天 The Liberator
     - 一把青
+    - 俗女養成記
     - 日劇
         - 火花 Hibana
         - 惡作劇之吻 イタズラなKiss
@@ -130,6 +148,8 @@ permalink: /favorites/
         - 昨日的美食 きのう何食べた?
         - 我的事說來話長 俺の話は長い
         - 同期的櫻 同期のサクラ
+        - 重版出来!
+        - 絕味之路 絶メシロード
 - 閱讀
     - 被討厭的勇氣
     - 快樂為什麼不幸福
@@ -141,3 +161,18 @@ permalink: /favorites/
         - 魔王
         - Modern Times 摩登時代 モダンタイムス
     - 現代草民哲學讀本：日常隨時烙哲學，用思考通樂人生
+- 遊戲
+    - Chrono Trigger
+    - Front Mission
+    - 大盜五右衛門
+        - がんばれゴエモン2～奇天烈将軍マッギネス～
+        - がんばれゴエモン3～獅子重禄兵衛のからくり卍固め～
+    - Xenogears
+    - FF7
+    - Dark Souls
+    - Oxygen Not Included
+    - NieR:Automata
+    - Undertale
+- YouTube
+    - Songe
+    - moonbowmusicmovie

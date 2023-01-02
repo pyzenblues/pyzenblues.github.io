@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: pyzenblues
-google_analytics: UA-122350852-1
+google_analytics: G-S4Y2WSK09Q
 
 # Build settings
 markdown: kramdown
